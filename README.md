@@ -1,6 +1,6 @@
 # SmartTrade
 smart trade is a bot that automatically tells you about a company’s stocks and if you should invest at the second or not.
-
+FOLLOW HOW TO DOWNLOAD APP STEPS FIRST!
 in app steps
 
 step 1 - make the run command "python stock_analyzer.py" 
